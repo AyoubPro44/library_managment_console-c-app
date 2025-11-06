@@ -91,5 +91,5 @@ This project is freely usable under the [MIT License](LICENSE) (or other, specif
 ## Contact  
 For any questions, suggestions, or bugs:  
 Souad Ait Bellauali (alias **SHINIGAMI**)  
-GitHub: [https://github.com/AyoubPro44](https://github.com/AyoubPro44)  
+GitHub: [https://github.com/AyoubPro44](https://github.com/Ayyoub-Boulahri)  
 Email: ayyoubboulahri@gmail.com
